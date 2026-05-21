@@ -1,6 +1,10 @@
 ﻿# MagicHemp Resource Pack - Minecraft 1.20.1
 
 <p align="center">
+  <img src="screenshots/banner.png" alt="MagicHemp Resource Pack" width="720" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/18%2B-MAIORES%20DE%2018%20ANOS-red?style=for-the-badge" alt="Aviso 18+" />
 </p>
 
@@ -15,7 +19,7 @@
 
 > **ESTE RESOURCE PACK FOI FEITO PARA SER USADO JUNTO COM O MOD MAGIC HEMP FORGE 1.20.1:**  
 > **Mod oficial:** https://github.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk  
-> **Use o mod + este resource pack para ter a experiencia visual completa do Magic Hemp.**
+> **O resource pack entrega texturas, modelos e identidade visual; o mod entrega menus, sistemas, varinha, spawns e mecanicas premium. Juntos eles formam o pacote premium integrado Magic Hemp, uma experiencia quase completa enquanto o shader oficial ainda esta em desenvolvimento.**
 
 > **ORDEM OBRIGATORIA DOS PACKS NO MINECRAFT, DE CIMA PARA BAIXO:**  
 > **1. `MagicHemp_1.20.1_Premium526X` -> 2. `MagicHemp_1.20.1_models` -> 3. `MagicHemp_1.20._addon` -> 4. `MagicHemp_1.20.1_bonus`**  
@@ -39,8 +43,41 @@ Este repositorio esta descompactado porque o pacote completo fica grande demais 
 
 ---
 
+## Mod Magic Hemp Forge
+
+Este resource pack foi criado para completar o **Magic Hemp Forge 1.20.1**. O mod adiciona a jogabilidade premium: varinha magica, menus interativos, transformacao de blocos, spawns, comandos, vilas, construcoes e sistemas especiais. O resource pack entra como a camada visual: texturas, modelos, folhagens, blocos, itens e atmosfera Magic Hemp.
+
+<p align="center">
+  <a href="https://github.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk">
+    <img src="https://raw.githubusercontent.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk/master/screenshots/banner.png" alt="Magic Hemp Forge Mod" width="720" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk">
+    <img src="https://raw.githubusercontent.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk/master/screenshots/varinha.png" alt="Varinha Magic Hemp" width="220" />
+    <img src="https://raw.githubusercontent.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk/master/screenshots/blocos.png" alt="Menu de blocos Magic Hemp" width="220" />
+    <img src="https://raw.githubusercontent.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk/master/screenshots/vilas.png" alt="Menu de vilas Magic Hemp" width="220" />
+  </a>
+</p>
+
+---
 ## Previews
 
+### Screenshots no jogo
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/1.png" alt="Resource pack MagicHemp em vila" width="360"><br><sub>Texturas premium em vila</sub></td>
+    <td align="center"><img src="screenshots/2.png" alt="Resource pack MagicHemp em construcao" width="360"><br><sub>Madeiras, folhas e blocos detalhados</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/3.png" alt="Resource pack MagicHemp com folhagens" width="360"><br><sub>Ambiente Magic Hemp integrado</sub></td>
+    <td align="center"><img src="screenshots/4.png" alt="Resource pack MagicHemp ao por do sol" width="360"><br><sub>Atmosfera premium em gameplay</sub></td>
+  </tr>
+</table>
+
+Essas imagens mostram o resource pack funcionando em jogo, com vegetacao, blocos, madeira, pedra, itens e clima visual feitos para encaixar com os menus e sistemas do mod.
 ### Icones dos quatro packs
 
 <table>
@@ -371,3 +408,4 @@ Este README deixa registrado que o resource pack, sua organizacao neste reposito
 Criador e responsavel pelo resource pack: **GuiPaluch**.
 
 Obrigado por usar o MagicHemp Resource Pack.
+
