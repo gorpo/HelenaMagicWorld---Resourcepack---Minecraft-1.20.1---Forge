@@ -1,5 +1,22 @@
 ﻿# MagicHemp Resource Pack - Minecraft 1.20.1
 
+<p align="center">
+  <img src="https://img.shields.io/badge/18%2B-MAIORES%20DE%2018%20ANOS-red?style=for-the-badge" alt="Aviso 18+" />
+</p>
+
+> **AVISO IMPORTANTE: ESTE PROJETO E INDICADO PARA MAIORES DE 18 ANOS.**  
+> **O tema Magic Hemp, sua identidade visual e sua proposta premium foram pensados para publico adulto.**
+
+<p align="center">
+  <a href="https://github.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk">
+    <img src="https://raw.githubusercontent.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk/master/screenshots/banner.png" alt="Magic Hemp Mod" width="720" />
+  </a>
+</p>
+
+> **ESTE RESOURCE PACK FOI FEITO PARA SER USADO JUNTO COM O MOD MAGIC HEMP FORGE 1.20.1:**  
+> **Mod oficial:** https://github.com/gorpo/MagicHemp-forge-1.20.1-47.4.10-mdk  
+> **Use o mod + este resource pack para ter a experiencia visual completa do Magic Hemp.**
+
 > **ORDEM OBRIGATORIA DOS PACKS NO MINECRAFT, DE CIMA PARA BAIXO:**  
 > **1. `MagicHemp_1.20.1_Premium526X` -> 2. `MagicHemp_1.20.1_models` -> 3. `MagicHemp_1.20._addon` -> 4. `MagicHemp_1.20.1_bonus`**  
 > **Use exatamente essa ordem para as texturas, modelos e sobreposicoes funcionarem corretamente.**
