@@ -119,6 +119,54 @@ Bonus
 </table>
 
 ---
+### Amostras compactas das texturas
+
+O resource pack possui dezenas de milhares de imagens. A grade abaixo mostra uma amostra compacta das principais texturas em quadrados pequenos, lado a lado, para visualizar o estilo do pacote sem deixar o README pesado demais.
+
+<table>
+  <tr>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/grass.png" alt="Grass" width="64" height="64"><br><sub>Grass</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/dirt.png" alt="Dirt" width="64" height="64"><br><sub>Dirt</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/stone.png" alt="Stone" width="64" height="64"><br><sub>Stone</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/cobblestone.png" alt="Cobblestone" width="64" height="64"><br><sub>Cobblestone</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/oak_log.png" alt="Oak Log" width="64" height="64"><br><sub>Oak Log</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/oak_planks.png" alt="Oak Planks" width="64" height="64"><br><sub>Oak Planks</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/diamond_ore.png" alt="Diamond Ore" width="64" height="64"><br><sub>Diamond Ore</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/emerald_ore.png" alt="Emerald Ore" width="64" height="64"><br><sub>Emerald Ore</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/gold_ore.png" alt="Gold Ore" width="64" height="64"><br><sub>Gold Ore</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/iron_ore.png" alt="Iron Ore" width="64" height="64"><br><sub>Iron Ore</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/emerald_block.png" alt="Emerald Block" width="64" height="64"><br><sub>Emerald Block</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/diamond_block.png" alt="Diamond Block" width="64" height="64"><br><sub>Diamond Block</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/nether_portal.png" alt="Nether Portal" width="64" height="64"><br><sub>Portal</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/lava_flow.png" alt="Lava Flow" width="64" height="64"><br><sub>Lava</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/water_flow.png" alt="Water Flow" width="64" height="64"><br><sub>Water</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/glass.png" alt="Glass" width="64" height="64"><br><sub>Glass</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/obsidian.png" alt="Obsidian" width="64" height="64"><br><sub>Obsidian</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/entity/chest/normal.png" alt="Chest" width="64" height="64"><br><sub>Chest</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/item/diamond.png" alt="Diamond" width="64" height="64"><br><sub>Diamond</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/item/emerald.png" alt="Emerald" width="64" height="64"><br><sub>Emerald</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/item/gold_ingot.png" alt="Gold Ingot" width="64" height="64"><br><sub>Gold</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/item/iron_ingot.png" alt="Iron Ingot" width="64" height="64"><br><sub>Iron</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/item/netherite_ingot.png" alt="Netherite Ingot" width="64" height="64"><br><sub>Netherite</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/item/apple.png" alt="Apple" width="64" height="64"><br><sub>Apple</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/allium.png" alt="Allium" width="64" height="64"><br><sub>Allium</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/azure_bluet.png" alt="Azure Bluet" width="64" height="64"><br><sub>Flower</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/oak_leaves.png" alt="Oak Leaves" width="64" height="64"><br><sub>Leaves</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/amethyst_block.png" alt="Amethyst Block" width="64" height="64"><br><sub>Amethyst</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/crafting_table_top.png" alt="Crafting Table" width="64" height="64"><br><sub>Crafting</sub></td>
+    <td align="center"><img src="HelenaMagicWorldResource_1.20.1-256x/assets/minecraft/textures/block/furnace_front.png" alt="Furnace" width="64" height="64"><br><sub>Furnace</sub></td>
+  </tr>
+</table>
+
+---
 
 # Estrutura do Repositorio
 
