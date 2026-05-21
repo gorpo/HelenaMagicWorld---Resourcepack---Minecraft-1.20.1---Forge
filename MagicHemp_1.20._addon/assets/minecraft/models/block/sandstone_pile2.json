@@ -1,6 +1,0 @@
-{
-    "parent":"block/rockpile2",
-    "textures": {
-	"all":"block/sandstone"
-    }
-}
