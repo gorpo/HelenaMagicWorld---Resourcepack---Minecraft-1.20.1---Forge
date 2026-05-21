@@ -1,5 +1,9 @@
 ﻿# MagicHemp Resource Pack - Minecraft 1.20.1
 
+> **ORDEM OBRIGATORIA DOS PACKS NO MINECRAFT, DE CIMA PARA BAIXO:**  
+> **1. `MagicHemp_1.20.1_Premium526X` -> 2. `MagicHemp_1.20.1_models` -> 3. `MagicHemp_1.20._addon` -> 4. `MagicHemp_1.20.1_bonus`**  
+> **Use exatamente essa ordem para as texturas, modelos e sobreposicoes funcionarem corretamente.**
+
 <p align="center">
   <img src="MagicHemp_1.20.1_Premium526X/pack.png" alt="MagicHemp Premium526X" width="150" />
   <img src="MagicHemp_1.20.1_models/pack.png" alt="MagicHemp Models" width="150" />
@@ -22,15 +26,61 @@ Este repositorio esta descompactado porque o pacote completo fica grande demais 
 
 ### Icones dos quatro packs
 
-| 1 - Premium526X | 2 - Models | 3 - Addon | 4 - Bonus |
-| --- | --- | --- | --- |
-| ![Premium526X](MagicHemp_1.20.1_Premium526X/pack.png) | ![Models](MagicHemp_1.20.1_models/pack.png) | ![Addon](MagicHemp_1.20._addon/pack.png) | ![Bonus](MagicHemp_1.20.1_bonus/pack.png) |
+<table>
+  <tr>
+    <td align="center"><strong>1 - Premium526X</strong><br><img src="MagicHemp_1.20.1_Premium526X/pack.png" alt="Premium526X" width="96" height="96"></td>
+    <td align="center"><strong>2 - Models</strong><br><img src="MagicHemp_1.20.1_models/pack.png" alt="Models" width="96" height="96"></td>
+    <td align="center"><strong>3 - Addon</strong><br><img src="MagicHemp_1.20._addon/pack.png" alt="Addon" width="96" height="96"></td>
+    <td align="center"><strong>4 - Bonus</strong><br><img src="MagicHemp_1.20.1_bonus/pack.png" alt="Bonus" width="96" height="96"></td>
+  </tr>
+</table>
 
-### Amostras de texturas
+### Amostras compactas das texturas
 
-| Grass | Nether Portal | Lava Flow | Diamond | Emerald Block | Chest |
-| --- | --- | --- | --- | --- | --- |
-| ![Grass](MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/grass.png) | ![Nether Portal](MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/nether_portal.png) | ![Lava Flow](MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/lava_flow.png) | ![Diamond](MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/item/diamond.png) | ![Emerald Block](MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/emerald_block.png) | ![Chest](MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/entity/chest/normal.png) |
+O resource pack possui dezenas de milhares de imagens. A grade abaixo mostra uma amostra compacta das principais texturas em quadrados pequenos, lado a lado, para visualizar o estilo do pacote sem deixar o README pesado demais.
+
+<table>
+  <tr>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/grass.png" alt="Grass" width="64" height="64"><br><sub>Grass</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/dirt.png" alt="Dirt" width="64" height="64"><br><sub>Dirt</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/stone.png" alt="Stone" width="64" height="64"><br><sub>Stone</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/cobblestone.png" alt="Cobblestone" width="64" height="64"><br><sub>Cobblestone</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/oak_log.png" alt="Oak Log" width="64" height="64"><br><sub>Oak Log</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/oak_planks.png" alt="Oak Planks" width="64" height="64"><br><sub>Oak Planks</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/diamond_ore.png" alt="Diamond Ore" width="64" height="64"><br><sub>Diamond Ore</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/emerald_ore.png" alt="Emerald Ore" width="64" height="64"><br><sub>Emerald Ore</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/gold_ore.png" alt="Gold Ore" width="64" height="64"><br><sub>Gold Ore</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/iron_ore.png" alt="Iron Ore" width="64" height="64"><br><sub>Iron Ore</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/emerald_block.png" alt="Emerald Block" width="64" height="64"><br><sub>Emerald Block</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/diamond_block.png" alt="Diamond Block" width="64" height="64"><br><sub>Diamond Block</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/nether_portal.png" alt="Nether Portal" width="64" height="64"><br><sub>Portal</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/lava_flow.png" alt="Lava Flow" width="64" height="64"><br><sub>Lava</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/water_flow.png" alt="Water Flow" width="64" height="64"><br><sub>Water</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/glass.png" alt="Glass" width="64" height="64"><br><sub>Glass</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/obsidian.png" alt="Obsidian" width="64" height="64"><br><sub>Obsidian</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/entity/chest/normal.png" alt="Chest" width="64" height="64"><br><sub>Chest</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/item/diamond.png" alt="Diamond" width="64" height="64"><br><sub>Diamond</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/item/emerald.png" alt="Emerald" width="64" height="64"><br><sub>Emerald</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/item/gold_ingot.png" alt="Gold Ingot" width="64" height="64"><br><sub>Gold</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/item/iron_ingot.png" alt="Iron Ingot" width="64" height="64"><br><sub>Iron</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/item/netherite_ingot.png" alt="Netherite Ingot" width="64" height="64"><br><sub>Netherite</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/item/apple.png" alt="Apple" width="64" height="64"><br><sub>Apple</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/allium.png" alt="Allium" width="64" height="64"><br><sub>Allium</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/azure_bluet.png" alt="Azure Bluet" width="64" height="64"><br><sub>Flower</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/oak_leaves.png" alt="Oak Leaves" width="64" height="64"><br><sub>Leaves</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/amethyst_block.png" alt="Amethyst Block" width="64" height="64"><br><sub>Amethyst</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/crafting_table_top.png" alt="Crafting Table" width="64" height="64"><br><sub>Crafting</sub></td>
+    <td align="center"><img src="MagicHemp_1.20.1_Premium526X/assets/minecraft/textures/block/furnace_front.png" alt="Furnace" width="64" height="64"><br><sub>Furnace</sub></td>
+  </tr>
+</table>
 
 ---
 
@@ -115,19 +165,33 @@ Sem suporte a esses recursos, o Minecraft ainda pode carregar texturas basicas, 
 
 ### Instalacao manual
 
-1. Baixe este repositorio pelo GitHub.
-2. Extraia o download, caso ele venha compactado.
-3. Abra a pasta do Minecraft.
-4. Entre em `.minecraft/resourcepacks`.
-5. Copie para `resourcepacks` as quatro pastas:
+1. Baixe este repositorio pelo GitHub usando `Code > Download ZIP`, ou clone com Git.
+2. Se usar `Download ZIP`, extraia o ZIP do repositorio.
+3. Abra a pasta extraida do repositorio. Dentro dela existem quatro pastas de resource pack prontas para uso.
+4. Abra a pasta do Minecraft.
+5. Entre em `.minecraft/resourcepacks`.
+6. Copie para `resourcepacks` somente estas quatro pastas, nao copie a pasta raiz do repositorio:
    - `MagicHemp_1.20.1_Premium526X`
    - `MagicHemp_1.20.1_models`
    - `MagicHemp_1.20._addon`
    - `MagicHemp_1.20.1_bonus`
-6. Abra o Minecraft 1.20.1.
-7. Va em `Opcoes > Pacotes de recursos`.
-8. Ative os packs seguindo a ordem indicada acima.
-9. Clique em `Concluido` e aguarde o Minecraft recarregar.
+7. Abra o Minecraft 1.20.1.
+8. Va em `Opcoes > Pacotes de recursos`.
+9. Ative os packs seguindo a ordem indicada acima.
+10. Clique em `Concluido` e aguarde o Minecraft recarregar.
+
+Importante: este repositorio guarda os packs descompactados para facilitar backup, navegacao e atualizacoes no GitHub. O Minecraft aceita resource packs como pastas descompactadas, desde que cada pasta tenha seu proprio `pack.mcmeta` diretamente dentro dela.
+
+### Instalacao por ZIP dos packs
+
+Quando houver uma versao publicada em `Releases`, voce podera baixar os packs ja compactados individualmente. Nesse caso, coloque os quatro arquivos `.zip` diretamente em `.minecraft/resourcepacks` e ative na mesma ordem obrigatoria:
+
+1. `MagicHemp_1.20.1_Premium526X.zip`
+2. `MagicHemp_1.20.1_models.zip`
+3. `MagicHemp_1.20._addon.zip`
+4. `MagicHemp_1.20.1_bonus.zip`
+
+Nao extraia esses ZIPs individuais dentro da pasta `resourcepacks`, porque eles ja serao os resource packs prontos.
 
 ### Instalacao via Git
 
