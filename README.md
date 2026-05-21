@@ -311,3 +311,13 @@ Helena Magic World
 <p align="center">
   <img src="screenshots/banner_resourcepack_helenamagicworld.png" alt="Helena Magic World" width="900" />
 </p>
+
+
+---
+# IMPORTANTE: PARA O DISTANT HORIZONS FUNCIONAR PRECISA JDK 21.0.10
+
+- use java 2
+- use o codigo no java:    -Xms4G -Xmx6G -XX:+UseZGC 
+- coloque entre 6 e 8gb de ram
+
+---
