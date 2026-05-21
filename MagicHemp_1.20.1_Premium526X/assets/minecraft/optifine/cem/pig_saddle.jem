@@ -1,0 +1,91 @@
+{
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"submodels": [
+				{
+					"id": "Created_by_FreshLX",
+					"invertAxis": "xy",
+					"translate": [0, 13, 2]
+				},
+				{
+					"id": "rotation",
+					"invertAxis": "xy",
+					"translate": [0, 7, 0],
+					"rotate": [-90, 0, 0],
+					"submodels": [
+						{
+							"id": "body_sub_1",
+							"invertAxis": "xy",
+							"translate": [0, -2, 6],
+							"boxes": [
+								{
+									"coordinates": [-5, -6, -7, 10, 16, 8],
+									"uvNorth": [36, 16, 46, 32],
+									"uvEast": [28, 16, 36, 32],
+									"uvSouth": [54, 16, 64, 32],
+									"uvWest": [46, 16, 54, 32],
+									"uvUp": [46, 16, 36, 8],
+									"uvDown": [56, 8, 46, 16],
+									"sizeAdd": 0.5
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"var.r": "random(id)*pi*4",
+					"var.ls": "limb_swing*if(is_child, 0.5, 1)*1.3",
+					"var.b": "var.r +limb_swing/2+age/if(is_child, 5, 10)",
+					"var.swim": "limb_swing/2+age/2.5",
+					"var.run": "clamp(if(limb_speed>=if(is_child, 0.65, 0.75), min(40, var.run +0.05 *frame_time*40), max(0, var.run -0.05 *frame_time*40)), 0, if(is_child, 1.2, 1))",
+					"var.walk": "clamp(1-var.run, 0, 1)"
+				},
+				{
+					"rotation.rx": "if(!is_on_ground&&is_in_water, torad(-10) +sin(var.swim)/10, (-sin(torad(-22.5)+var.ls/1.5)/4*limb_speed)*var.run ) +sin(var.b-torad(90))/60",
+					"rotation.ry": "(sin(torad( 45)+var.ls)/10*limb_speed)*var.walk",
+					"rotation.rz": "(sin(torad( 45)+var.ls)/20*limb_speed)*var.walk -torad(head_yaw)/5",
+					"rotation.tx": "(sin(torad(180)+var.ls)/2 *limb_speed)*var.walk",
+					"rotation.ty": "if(!is_on_ground&&is_in_water, -sin(torad(45)+var.swim/2)/2, (sin(torad(-135)+var.ls/0.5)/4*limb_speed)*var.walk ) -15 +sin(var.b)/8",
+					"rotation.tz": "if(!is_on_ground&&is_in_water, -1, (limb_speed +sin(torad(-90)+var.ls/1.5)*limb_speed)*var.run +(-1*limb_speed)*var.walk ) -4.2 +sin(var.b)/6"
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [3, 0, -6]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [-3, 0, -6]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [3, 0, 5.5]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [-3, 0, 5.5]
+		}
+	]
+}

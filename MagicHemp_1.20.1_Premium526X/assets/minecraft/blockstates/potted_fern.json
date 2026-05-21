@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/potted_fern" },
+            { "model": "block/potted_fern", "y": 90 }
+        ]
+    }
+}

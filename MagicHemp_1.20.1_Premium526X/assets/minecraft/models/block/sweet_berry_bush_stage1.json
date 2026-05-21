@@ -1,0 +1,7 @@
+{
+    "parent": "block/crop4",
+    "textures": {
+        "cross": "block/sweet_berry_bush_stage1",
+        "extra": "block/sweet_berry_bush_stage1"
+    }
+}

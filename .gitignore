@@ -1,0 +1,15 @@
+﻿# Arquivos locais gerados
+*.zip
+*.rar
+*.7z
+*.tmp
+*.bak
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Minecraft/runtime local
+logs/
+crash-reports/

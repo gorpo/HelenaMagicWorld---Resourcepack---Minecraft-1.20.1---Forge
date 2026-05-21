@@ -1,0 +1,267 @@
+{
+	"textureSize": [64, 64],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 0],
+			"boxes": [
+				{
+					"coordinates": [0, 5, -15, 0, 8, 8],
+					"uvEast": [64, 34, 56, 42],
+					"uvWest": [56, 34, 64, 42],
+					"sizeAdd": 0.02
+				}
+			],
+			"submodels": [
+				{
+					"id": "bone2",
+					"invertAxis": "xy",
+					"translate": [-2.5, 20, -9],
+					"rotate": [-30, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [-3, -1, -0.5, 3, 2, 1],
+							"uvNorth": [60, 31, 57, 33],
+							"uvEast": [61, 31, 60, 33],
+							"uvSouth": [64, 31, 61, 33],
+							"uvWest": [57, 31, 56, 33],
+							"uvUp": [57, 31, 60, 30],
+							"uvDown": [60, 30, 63, 31]
+						}
+					]
+				},
+				{
+					"id": "bone3",
+					"invertAxis": "xy",
+					"translate": [2.5, 20, -9],
+					"rotate": [-30, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [0, -1, -0.5, 3, 2, 1],
+							"uvNorth": [57, 31, 60, 33],
+							"uvEast": [56, 31, 57, 33],
+							"uvSouth": [61, 31, 64, 33],
+							"uvWest": [60, 31, 61, 33],
+							"uvUp": [60, 31, 57, 30],
+							"uvDown": [63, 30, 60, 31]
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "nose",
+			"id": "nose",
+			"invertAxis": "xy",
+			"translate": [0.5, -18, 8],
+			"rotate": [-55, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-2.5, 17, -16, 5, 5, 10],
+					"uvNorth": [44, 43, 49, 48],
+					"uvEast": [34, 43, 44, 48],
+					"uvSouth": [59, 43, 64, 48],
+					"uvWest": [49, 43, 59, 48],
+					"uvUp": [49, 43, 44, 33],
+					"uvDown": [54, 33, 49, 43]
+				}
+			],
+			"submodels": [
+				{
+					"id": "bone",
+					"invertAxis": "xy",
+					"translate": [0, 17, -16],
+					"rotate": [-120, -180, 0],
+					"boxes": [
+						{
+							"coordinates": [-2.5, 0, 0, 5, 8.66, 5],
+							"uvNorth": [54, 54, 59, 64],
+							"uvEast": [49, 54, 54, 64],
+							"uvWest": [59, 54, 64, 64],
+							"uvUp": [59, 54, 54, 49],
+							"sizeAdd": -0.02
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "left_horn",
+			"id": "left_horn",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 0],
+			"submodels": [
+				{
+					"id": "bone4",
+					"invertAxis": "xy",
+					"translate": [-1, 21.5, -10],
+					"rotate": [45, -22.5, 0],
+					"boxes": [
+						{
+							"coordinates": [-1, 0, 0, 2, 6, 5],
+							"uvNorth": [0, 42, 2, 48],
+							"uvSouth": [7, 42, 9, 48],
+							"uvWest": [2, 42, 7, 48],
+							"uvUp": [2, 42, 0, 37]
+						},
+						{
+							"coordinates": [1, 6, 5, -2, -6, -5],
+							"uvNorth": [30, 48, 32, 42],
+							"uvEast": [25, 48, 30, 42],
+							"uvSouth": [23, 48, 25, 42],
+							"uvDown": [23, 42, 25, 37],
+							"sizeAdd": 0.02
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "right_horn",
+			"id": "right_horn",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 0],
+			"submodels": [
+				{
+					"id": "bone5",
+					"invertAxis": "xy",
+					"translate": [1, 21.5, -10],
+					"rotate": [45, 22.5, 0],
+					"boxes": [
+						{
+							"coordinates": [-1, 0, 0, 2, 6, 5],
+							"uvNorth": [2, 42, 0, 48],
+							"uvEast": [7, 42, 2, 48],
+							"uvSouth": [9, 42, 7, 48],
+							"uvUp": [0, 42, 2, 37]
+						},
+						{
+							"coordinates": [1, 6, 5, -2, -6, -5],
+							"uvNorth": [32, 48, 30, 42],
+							"uvSouth": [25, 48, 23, 42],
+							"uvWest": [30, 48, 25, 42],
+							"uvDown": [25, 42, 23, 37],
+							"sizeAdd": 0.02
+						}
+					]
+				}
+			]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [-0.5, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-4.5, 6, -7, 9, 11, 16],
+					"uvNorth": [16, 16, 25, 27],
+					"uvEast": [0, 16, 16, 27],
+					"uvSouth": [41, 16, 50, 27],
+					"uvWest": [25, 16, 41, 27],
+					"uvUp": [25, 16, 16, 0],
+					"uvDown": [34, 0, 25, 16]
+				},
+				{
+					"coordinates": [-5.5, 3, -8, 11, 15, 11],
+					"uvNorth": [11, 49, 22, 64],
+					"uvEast": [0, 49, 11, 64],
+					"uvSouth": [33, 49, 44, 64],
+					"uvWest": [22, 49, 33, 64],
+					"uvUp": [22, 49, 11, 38]
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3.5, -10, -4],
+			"boxes": [
+				{
+					"coordinates": [1.5, 4, 4, 2, 3, 4],
+					"uvNorth": [58, 4, 56, 7],
+					"uvEast": [62, 4, 58, 7],
+					"uvSouth": [64, 4, 62, 7],
+					"uvWest": [56, 4, 52, 7],
+					"uvUp": [56, 4, 58, 0],
+					"uvDown": [58, 0, 60, 4]
+				},
+				{
+					"coordinates": [1.5, 0, 5, 2, 4, 3],
+					"uvNorth": [59, 11, 57, 15],
+					"uvEast": [62, 11, 59, 15],
+					"uvSouth": [64, 11, 62, 15],
+					"uvWest": [57, 11, 54, 15],
+					"uvDown": [59, 8, 61, 11]
+				}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, -4],
+			"boxes": [
+				{
+					"coordinates": [-3.5, 4, 4, 2, 3, 4],
+					"uvNorth": [56, 4, 58, 7],
+					"uvEast": [52, 4, 56, 7],
+					"uvSouth": [62, 4, 64, 7],
+					"uvWest": [58, 4, 62, 7],
+					"uvUp": [58, 4, 56, 0],
+					"uvDown": [60, 0, 58, 4]
+				},
+				{
+					"coordinates": [-3.5, 0, 5, 2, 4, 3],
+					"uvNorth": [57, 11, 59, 15],
+					"uvEast": [54, 11, 57, 15],
+					"uvSouth": [62, 11, 64, 15],
+					"uvWest": [59, 11, 62, 15],
+					"uvDown": [61, 8, 59, 11]
+				}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3.5, -10, 6],
+			"boxes": [
+				{
+					"coordinates": [1.5, 0, -6, 2, 8, 3],
+					"uvNorth": [46, 3, 44, 11],
+					"uvEast": [49, 3, 46, 11],
+					"uvSouth": [51, 3, 49, 11],
+					"uvWest": [44, 3, 41, 11],
+					"uvUp": [44, 3, 46, 0],
+					"uvDown": [46, 0, 48, 3]
+				}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [0.5, -10, 6],
+			"boxes": [
+				{
+					"coordinates": [-3.5, 0, -6, 2, 8, 3],
+					"uvNorth": [44, 3, 46, 11],
+					"uvEast": [41, 3, 44, 11],
+					"uvSouth": [49, 3, 51, 11],
+					"uvWest": [46, 3, 49, 11],
+					"uvUp": [46, 3, 44, 0],
+					"uvDown": [48, 0, 46, 3]
+				}
+			]
+		}
+	]
+}
