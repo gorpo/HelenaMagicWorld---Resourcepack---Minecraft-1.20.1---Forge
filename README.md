@@ -17,7 +17,7 @@ Projeto focado em fantasia magica, atmosfera medieval, magia, natureza viva, efe
 
 # Integracao com o Mod Oficial
 
-Este resource pack foi criado para funcionar junto do mod:
+Este resource pack foi criado para funcionar junto do mod, shadder e esta seedrecomendada: 8500081009970950196 
 
 ## HelenaMagicWorld---VarinhaMagicaMod---Minecraft-1.20.1---Forge
 
